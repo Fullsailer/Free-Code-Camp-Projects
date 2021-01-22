@@ -1,0 +1,4 @@
+<!-- Charles Munger Page 1 JS-->
+
+// eslint-diable-next-line no-unused-vars
+const projectName = 'tribute-page';
